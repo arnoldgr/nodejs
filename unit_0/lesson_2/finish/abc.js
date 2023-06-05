@@ -7,3 +7,6 @@ let messages = [
       ];
       
 messages.forEach(message => console.log(message));
+
+
+// i made a change and i will add it as in version 2
